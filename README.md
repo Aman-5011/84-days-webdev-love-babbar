@@ -34,6 +34,7 @@ The challenge is divided into multiple tracks including:
 ---
 
 ## 📅 Daily Log
+
   
 ## 🛠 Projects Built
 
