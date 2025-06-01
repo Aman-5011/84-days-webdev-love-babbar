@@ -35,6 +35,18 @@ The challenge is divided into multiple tracks including:
 
 ## 📅 Daily Log
 
+### Day 1 - [June 1, 2025]
+*Topics Covered:*
+- What is Internet
+- Web, Network, LAN, WAN, MAN
+- Client-Server Architecture
+- DNS Server, Search Engine, Browser
+- IP Address
+- What is Frontend, Backend, Full Stack Development
+
+*Progress:*
+- Read theoretical concepts
+- Took notes in physical notebook
   
 ## 🛠 Projects Built
 
