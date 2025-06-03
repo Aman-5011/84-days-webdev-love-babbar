@@ -51,15 +51,10 @@ The challenge is divided into multiple tracks including:
 ### Day 2 - [June 2, 2025]
 📚 Topics Covered
 What is the Internet – global network, client-server model
-
 History – ARPANET, growth into the modern Internet
-
 ISPs – local, regional, and national ISPs and how they connect users
-
 Communication – IP addresses, DNS, routers, packet switching
-
 Protocols – HTTP, TCP/IP, DNS, FTP basics
-
 HTML Basics – structure, common tags, simple page layout
 
 ### Day 3 - [June 3, 2025]
