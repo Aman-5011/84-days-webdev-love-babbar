@@ -61,6 +61,20 @@ Communication – IP addresses, DNS, routers, packet switching
 Protocols – HTTP, TCP/IP, DNS, FTP basics
 
 HTML Basics – structure, common tags, simple page layout
+
+### Day 3 - [June 3, 2025]
+📚 Topics Covered
+Studied HTML tags and their role in structuring content
+Learned the difference between structure, meaning, and formatting tags
+Explored Emmet shortcuts to speed up HTML writing
+Practiced using:
+IDs and classes for styling and targeting elements
+<div> as a container element
+Block vs Inline elements
+Anchor tags for links, including mailto: links
+<link> and <meta> tags for external resources and metadata
   
+
+
 ## 🛠 Projects Built
 
