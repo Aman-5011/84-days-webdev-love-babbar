@@ -68,6 +68,29 @@ IDs and classes for styling and targeting elements
 Block vs Inline elements
 Anchor tags for links, including mailto: links
 <link> and <meta> tags for external resources and metadata
+
+🌱 Web Development Daily Challenge: Day 4–6
+⚠️ Day 4 - Break in Progress
+I didn't make any progress today. Got distracted and fell into procrastination. Rather than pretending otherwise, I'm noting it honestly — this challenge is for growth, not perfection.
+
+⚠️ Day 5 - Still Stuck
+Another day lost to procrastination and unproductive habits. But I’m being truthful here because hiding it doesn’t help — learning comes from reflection, not denial. I'm using this realization to build consistency again.
+
+✅ Day 6 - Comeback with Tables
+Today, I got back to work — and it felt great.
+What I Learned:
+How to create tables using HTML
+Tags: <table>, <thead>, <tbody>, <tr>, <td>, <th>
+Properties: rowspan, colspan
+Structuring data clearly in a layout
+
+Problem Solved:
+Built a sample problem involving a real-world table — applying the concepts of merged cells and headers.
+
+Reflection:
+Missing two days made me feel off-track, but facing it honestly helped me return stronger. This challenge isn’t just about code — it’s about building discipline and resilience too.
+
+✅ Back on track. Moving ahead with Day 7!
   
 
 
